@@ -2,7 +2,7 @@
   "name": "Brankas Misteri",
   "short_name": "Brankas Misteri",
   "description": "Game teka-teki kode brankas 20 level.",
-  "start_url": "./BRANKAS_MISTERI_100_FINAL_100.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
